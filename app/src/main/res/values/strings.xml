@@ -1,0 +1,8 @@
+<resources>
+    //    Delete Dialog strings                     --------->
+    <string name="app_name">SecondApplication</string>
+    <string name="delete_dialog_title">Alert</string>
+    <string name="delete_dialog_message">Delete this checker?</string>
+    <string name="delete_dialog_button_yes">Yes</string>
+    <string name="delete_dialog_button_no">No</string>
+</resources>
